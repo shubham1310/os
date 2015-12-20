@@ -1,0 +1,3 @@
+NOTE:-
+
+1. You should include synchop.h in all test programs that use the system_CondOp() function.
